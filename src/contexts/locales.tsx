@@ -4,7 +4,7 @@ import * as React from 'react';
 import { INITIAL_LOCALE, LOCALE_AUTO } from 'constants/locales';
 import { getLocale } from 'utils/locales';
 
-export const STORAGE_LOCALE = 'WHATTOWATCH_LOCALE';
+export const STORAGE_LOCALE = 'ONESERIES_LOCALE';
 
 type LocaleContextInterface = {
   locale: LocaleLanguage;

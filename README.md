@@ -1,10 +1,10 @@
-# WhatToWatch
+# OneSeries
 
 Play with react native (Expo), styled-components and [themoviedb API](https://developers.themoviedb.org/) 🥳
 
 ![alt image](https://user-images.githubusercontent.com/50322149/149024555-ebc3d433-a2db-423d-b162-cfe52ff9faf4.png)
 
-WhatToWatch is the simplest and fastest way to discover movies, series and actors.
+OneSeries is the simplest and fastest way to discover movies, series and actors.
 
 ---
 
@@ -17,8 +17,3 @@ WhatToWatch is the simplest and fastest way to discover movies, series and actor
 3. Add `THEMOVIEDB_API_KEY` key on your EAS secrets
 4. create a `.env` (see the example file)
 5. Have fun 👌
-
-## Demo
-
-- Expo app : https://expo.io/@thehaut/WhatToWatch
-- Android : https://play.google.com/store/apps/details?id=com.theomesnil.WhatToWatch

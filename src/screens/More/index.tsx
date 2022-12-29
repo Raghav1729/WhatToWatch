@@ -28,11 +28,11 @@ export function MoreScreen() {
   }
 
   function sendMail() {
-    Linking.openURL('mailto:mesniltheo+whattowatch@gmail.com');
+    Linking.openURL('');
   }
 
   function openMyWebsite() {
-    Linking.openURL('https://www.theomesnil.com');
+    Linking.openURL('');
   }
 
   return (
